@@ -6,9 +6,18 @@
 
 ---
 
+## 🔭 Current Focus
+- Expanding [DevOps Cheat Sheet](https://hackitect7.github.io/devops-cheat-sheet/) into 27+ languages  
+- Building [Hackademy](https://github.com/Hackitect7) – open learning platform for IT engineers  
+- Exploring automation projects with Python/Golang  
+- Sharing insights & system architecture principles under the brand **Hackitect7 – Music of Systems**  
+
+---
+
 ## 🌟 About Me
 - Architect and engineer with deep expertise in **infrastructure, networking, cloud & automation**  
-- Passion for **resilient systems**, crisis management, and making IT “just work”  
+- Special strength in **Crisis IT Management** — restoring and stabilizing complex systems under pressure  
+- Experienced in **multi-datacenter architectures** and **hybrid cloud solutions** (CIS + Global projects)  
 - Founder of **Hackitect7** brand — *Music of Systems* (#Hackitect7 #Hackademy)  
 - Open-source contributor, script writer, mentor, and knowledge sharer  
 
@@ -42,14 +51,14 @@
 ---
 
 ## 📫 Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hackitect7) 
-- 📧 Email: papulya2012@gmail.com  
-- ⏰ Time zone: UTC+6 (Asia/Bishkek), typical reply hours: 09:00–22:00  
-- 🗣️ Languages: Russian (spoken); English and other languages — written at native level  
-- 🐙 GitHub (Portfolio): https://github.com/Hackitect7  
-- 📞 Phone: +996-501-141-183  
-- ✈️ Telegram: https://t.me/Manfred251278  
-- 💬 WhatsApp: https://wa.me/996501141183
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hackitect7)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Manfred251278)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:papulya2012@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/996501141183)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Hackitect7)
+
+⏰ **Timezone**: UTC+6 (Asia/Bishkek) | 🗣️ **Languages**: Russian (spoken), English + others (written at native level)  
 
 ---
 
