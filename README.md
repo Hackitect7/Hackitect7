@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Connect
-- 🔗 LinkedIn: [linkedin.com/in/hackitect7](https://linkedin.com/in/hackitect7)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/hackitect7) 
 - 📧 Email: papulya2012@gmail.com  
 - ⏰ Time zone: UTC+6 (Asia/Bishkek), typical reply hours: 09:00–22:00  
 - 🗣️ Languages: Russian (spoken); English and other languages — written at native level  
