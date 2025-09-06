@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Алексей (aka Hackitect7)
+# 👋 Hi, I’m Aleksei (aka Hackitect7)
 
 🛠 IT Infrastructure Architect | System & Network Administrator | DevOps & Automation Engineer  
 ⚡ 22+ years in IT | Crisis IT Manager | Hybrid Cloud (CIS + Global) Expert  
@@ -17,7 +17,7 @@
 ## 🧰 Skills & Tools
 - **Systems & Networks**: Linux, Windows Server, Active Directory, MikroTik, Cisco, VMware  
 - **DevOps & Cloud**: Kubernetes, Docker, Terraform, Ansible, CI/CD (GitHub Actions, GitLab CI)  
-- **Automation & Scripting**: Python, Bash, PowerShell, Go (basics)  
+- **Automation & Scripting**: Python, Bash, PowerShell, Go  
 - **Monitoring & Security**: Zabbix, Prometheus, Grafana, ELK stack, security hardening  
 - **Hybrid Architectures**: On-prem + Cloud (AWS, Azure, GCP, Private Clouds), multi-datacenter designs  
 
@@ -42,10 +42,14 @@
 ---
 
 ## 📫 Connect
-- 🌐 Website/Docs: [hackitect7.github.io](https://hackitect7.github.io/devops-cheat-sheet/)  
-- 💼 LinkedIn: [linkedin.com/in/hackitect7](https://linkedin.com/in/hackitect7)  
-- 🐦 Twitter/X: [@Hackitect7](https://twitter.com/Hackitect7)  
-- 📧 Email: *your email here*  
+- 🔗 LinkedIn: [linkedin.com/in/hackitect7](https://linkedin.com/in/hackitect7)  
+- 📧 Email: papulya2012@gmail.com  
+- ⏰ Time zone: UTC+6 (Asia/Bishkek), typical reply hours: 09:00–22:00  
+- 🗣️ Languages: Russian (spoken); English and other languages — written at native level  
+- 🐙 GitHub (Portfolio): https://github.com/Hackitect7  
+- 📞 Phone: +996-501-141-183  
+- ✈️ Telegram: https://t.me/Manfred251278  
+- 💬 WhatsApp: https://wa.me/996501141183
 
 ---
 
